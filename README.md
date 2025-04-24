@@ -7,8 +7,8 @@
 
 ## Contact
 
-- [Christopher J. Fewster]: [chris.fewster@york.ac.uk]
-- [Harkan J. Kirk-Karakaya]: [harkan.kirk-karakaya@york.ac.uk]
+- Christopher J. Fewster: [chris.fewster@york.ac.uk]
+- Harkan J. Kirk-Karakaya: [harkan.kirk-karakaya@york.ac.uk]
 
 
 Date: April 2025
