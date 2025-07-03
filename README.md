@@ -12,7 +12,7 @@
     Python packages: mpmath,flint,math,time,sys.
     Maple 2024 or higher.
 
-- To generate your own eigenvalue estimates, clone or download the /code folder. The .py sheet should be run first to generate the matrix elements and then the .mpl file to generate the eigenvalue estimates. Instructions for each are contained in the source code.
+- To generate your own eigenvalue estimates, clone or download the /code folder. The .py code should be run first to generate the matrix elements and then the .mpl file to generate the eigenvalue estimates. Instructions for each are contained in the source code.
 
 ## Contact
 
