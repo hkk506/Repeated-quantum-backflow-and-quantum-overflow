@@ -6,7 +6,7 @@ import time
 import sys
 
 """
-This python sheet calculates the matrix elements for the C and P matrices, associated with a multiple backflow
+This python code calculates the matrix elements for the C and P matrices, associated with a multiple backflow
 operator, as detailed in "Repeated Quantum backflow and overflow" (https://arxiv.org/abs/2505.13184). 
 
 The parameters below mean as follows:
