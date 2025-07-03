@@ -1,7 +1,6 @@
 import mpmath as mp
 from flint import arb, acb, acb_poly, ctx, fmpq, good
 
-import psutil
 from math import floor
 import time
 import sys
@@ -252,11 +251,6 @@ def data_dict():
     for n in range(N_start, N_stop+1):
         for m in range(0, n+1):
             if n % 5 == 0 and m % 5 == 0:
-                print("dps", mp.mp.dps)
-                print("cpu usage: ", psutil.cpu_percent(), "%")
-                print("virtual memory available: ",
-                      psutil.virtual_memory().available*100 /
-                      psutil.virtual_memory().total, "%")
                 print('('+str(n)+','+str(m)+')')
 
             data_dict['matrix_element', n, m] = convert_to_maple_string(
