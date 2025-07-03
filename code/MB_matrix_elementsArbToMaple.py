@@ -11,7 +11,7 @@ operator, as detailed in "Repeated Quantum backflow and overflow" (https://arxiv
 
 The parameters below mean as follows:
 N - Largest trial vector used in the sense that the largest backflow and overflow spectral 
-points are found in the subspace of L^2 functions spanned by (psi__n)__(0<=n=N).
+points are found in the subspace of L^2 functions spanned by (psi_n)_(0<=n=N) where psi_n(x)=x^(n+delta)*exp(-A*x).
 M - Number of backflow periods under investigation
 delta - Shift of the exponent of the trial vectors as defined above
 A - Exponential multiplier of the trial vectors as defined above
